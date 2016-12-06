@@ -41,7 +41,7 @@ private void TransactionRules(double amount) {
 }
 ```
 
-### usage of the Abbreviator in our Withdraw method
+### invokation of the Abbreviator in our Withdraw method
 
 ```cs
  public double Withdraw(double amount) {
@@ -52,3 +52,9 @@ private void TransactionRules(double amount) {
 } 
 
 ```
+
+## Usage of Pre-conditions
+The usage of Pre-conditions validates the initial state of a method-call. It uses the Contract.Requires-method. See in our Abbreviator.
+
+## Usage of Post-conditions
+The usage of Post-conditions validates the exit state of a method. It uses the Contract.Ensures-method. See in our Withdraw function.
