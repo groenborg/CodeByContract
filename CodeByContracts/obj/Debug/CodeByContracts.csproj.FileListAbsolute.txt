@@ -1,0 +1,5 @@
+C:\Users\CSMO\Desktop\CodeByContracts\CodeByContracts\bin\Debug\CodeByContracts.exe.config
+C:\Users\CSMO\Desktop\CodeByContracts\CodeByContracts\bin\Debug\CodeByContracts.exe
+C:\Users\CSMO\Desktop\CodeByContracts\CodeByContracts\bin\Debug\CodeByContracts.pdb
+C:\Users\CSMO\Desktop\CodeByContracts\CodeByContracts\obj\Debug\CodeByContracts.exe
+C:\Users\CSMO\Desktop\CodeByContracts\CodeByContracts\obj\Debug\CodeByContracts.pdb
